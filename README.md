@@ -8,5 +8,4 @@ maintained privately elsewhere.
 Runtime manifests are published at `runtime-manifest.json` on the `main`
 branch. Runtime APKs and GatherTV app packages are attached to versioned
 GitHub Releases. Android APK, iOS IPA, Windows/macOS/Linux installers and
-Runtime APKs may share a Release repository; Runtime entries are exposed via
-the `gathertv-runtime.lalifeier.eu.org` Worker.
+Runtime APKs may share a Release repository.
