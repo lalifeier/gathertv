@@ -1,0 +1,77 @@
+{
+  "runtimes": [
+    {
+      "runtimeId": "python",
+      "packageName": "com.github.lalifeier.gathertv.runtime.python",
+      "versionCode": 1,
+      "abi": "arm64-v8a",
+      "engineVersion": "3.10",
+      "pythonVersion": "3.10",
+      "apkSha256": "2c08077e46ae367b0ca8471ec8fc6e215e591bfda180f8a2520698c4ea93657b",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "python-runtime-1.apk"
+    },
+    {
+      "runtimeId": "node",
+      "packageName": "com.github.lalifeier.gathertv.runtime.node",
+      "versionCode": 1,
+      "abi": "arm64-v8a",
+      "engineVersion": "18.20.4",
+      "apkSha256": "9c3346fa758b3fcb0a4e8edbf1315c2bdefb3f816d26bea56f780b5a89233b16",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "node-runtime-1.apk"
+    },
+    {
+      "runtimeId": "node",
+      "packageName": "com.github.lalifeier.gathertv.runtime.node",
+      "versionCode": 1,
+      "abi": "armeabi-v7a",
+      "engineVersion": "18.20.4",
+      "apkSha256": "9c3346fa758b3fcb0a4e8edbf1315c2bdefb3f816d26bea56f780b5a89233b16",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "node-runtime-1.apk"
+    },
+    {
+      "runtimeId": "node",
+      "packageName": "com.github.lalifeier.gathertv.runtime.node",
+      "versionCode": 1,
+      "abi": "x86_64",
+      "engineVersion": "18.20.4",
+      "apkSha256": "9c3346fa758b3fcb0a4e8edbf1315c2bdefb3f816d26bea56f780b5a89233b16",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "node-runtime-1.apk"
+    },
+    {
+      "runtimeId": "spider",
+      "packageName": "com.github.lalifeier.gathertv.runtime.spider",
+      "versionCode": 1,
+      "abi": "arm64-v8a",
+      "engineVersion": "QuickJS",
+      "apkSha256": "155f9b94f107b4c222a656ccb997b044e7f2fbcabfc2bd72c42332a8e94bc472",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "spider-runtime-1.apk"
+    },
+    {
+      "runtimeId": "spider",
+      "packageName": "com.github.lalifeier.gathertv.runtime.spider",
+      "versionCode": 1,
+      "abi": "armeabi-v7a",
+      "engineVersion": "QuickJS",
+      "apkSha256": "155f9b94f107b4c222a656ccb997b044e7f2fbcabfc2bd72c42332a8e94bc472",
+      "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
+      "minHostVersionCode": 1,
+      "releaseTag": "runtime-release-2026-11-16",
+      "assetName": "spider-runtime-1.apk"
+    }
+  ]
+}
