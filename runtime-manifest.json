@@ -11,7 +11,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "python-runtime-1.apk"
+      "assetName": "python-runtime-1.0.0-b1.apk"
     },
     {
       "runtimeId": "node",
@@ -23,7 +23,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "node-runtime-1.apk"
+      "assetName": "node-runtime-1.0.0-b1.apk"
     },
     {
       "runtimeId": "node",
@@ -35,7 +35,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "node-runtime-1.apk"
+      "assetName": "node-runtime-1.0.0-b1.apk"
     },
     {
       "runtimeId": "node",
@@ -47,7 +47,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "node-runtime-1.apk"
+      "assetName": "node-runtime-1.0.0-b1.apk"
     },
     {
       "runtimeId": "spider",
@@ -59,7 +59,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "spider-runtime-1.apk"
+      "assetName": "spider-runtime-1.0.0-b1.apk"
     },
     {
       "runtimeId": "spider",
@@ -71,7 +71,7 @@
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
       "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "spider-runtime-1.apk"
+      "assetName": "spider-runtime-1.0.0-b1.apk"
     }
   ]
 }
