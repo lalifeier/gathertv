@@ -70,8 +70,8 @@
       "apkSha256": "2c08077e46ae367b0ca8471ec8fc6e215e591bfda180f8a2520698c4ea93657b",
       "certificateSha256": "77fc2ab7e0762d98de5d25be384e444c44127eda5a5f55f9542cda89d8d9c9dc",
       "minHostVersionCode": 1,
-      "releaseTag": "runtime-release-2026-11-16",
-      "assetName": "python-runtime-1.0.0-b1.apk"
+      "releaseTag": "runtime-release-2026-11-16-abi",
+      "assetName": "python-runtime-arm64-1.0.0-b1.apk"
     }
   ]
 }
